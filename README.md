@@ -1,6 +1,6 @@
 # Strickland Home for Fire TV
 
-Downloads for a personal Fire TV launcher (version 0.7.1).
+Downloads for a personal Fire TV launcher (version 0.7.2).
 
 - Launcher: https://digitaldeth.github.io/tv/home.apk
 - Install page: https://digitaldeth.github.io/tv/

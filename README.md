@@ -1,6 +1,6 @@
 # Strickland Home for Fire TV
 
-Downloads for a personal Fire TV launcher (version 0.7.3).
+Downloads for a personal Fire TV launcher (version 0.7.4).
 
 - Launcher: https://digitaldeth.github.io/tv/home.apk
 - Install page: https://digitaldeth.github.io/tv/
@@ -10,6 +10,6 @@ https://github.com/toolicious/home-on-fire
 
 ## Strickland Home for onn. (Google TV)
 
-A separate build of the same launcher for the onn. 4K Plus / 4K Pro (version 0.7.3-onn, app id com.stricklandproductions.tvhome.onn). It installs alongside the Fire TV version without replacing it.
+A separate build of the same launcher for the onn. 4K Plus / 4K Pro (version 0.7.4-onn, app id com.stricklandproductions.tvhome.onn). It installs alongside the Fire TV version without replacing it.
 
 - Launcher: https://digitaldeth.github.io/tv/onn.apk
